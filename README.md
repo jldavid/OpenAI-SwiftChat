@@ -1,2 +1,2 @@
 # OpenAI-iOSClient
-A sample AI chat app using Open AI, SwiftUI, Codable and Alamofire 2024
+A sample AI chat app using the Open AI Completions API, SwiftUI, Codable, and Alamofire 2024
